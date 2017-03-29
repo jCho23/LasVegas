@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{826AE096-BB39-41F8-A948-0BFA01F0C703}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LasVegas/Tests.cs">
+    <Files>
+      <File FileName="LasVegas/AppInitializer.cs" Line="30" Column="63" />
+      <File FileName="LasVegas/Tests.cs" Line="28" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LasVegas" expanded="True">
+            <Node name="LasVegas" expanded="True">
+              <Node name="LasVegas" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LasVegas PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
